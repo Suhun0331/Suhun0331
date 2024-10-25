@@ -8,16 +8,6 @@
   </a>
 </p>
 
-
-
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/Suhun0331">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhun0331&show_icons=true&theme=radical&include_all_commits=true&hide_rank=true" />
-  </a>
-</p>
-
-
 <p align="center">
   <a href="https://github.com/Suhun0331">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhun0331&hide=contribs,issues&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
