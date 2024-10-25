@@ -8,8 +8,3 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Suhun0331">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Suhun0331&hide=contribs,issues&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
-  </a>
-</p>
