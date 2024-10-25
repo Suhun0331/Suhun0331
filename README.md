@@ -1,14 +1,14 @@
-<h1 align="left">Kim Su Hun</h1>
-<p align="left">
+<h1 align="center">Kim Su Hun</h1>
+<p align="center">
   <a href="https://solved.ac/rlatngns6046">
-    <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngns6046" />
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngns6046" />
   </a>
 </p>
 
-<br /><br /><br /><br /><br /><br /><br /><br /> <!-- 백준 뱃지 아래에 줄 바꿈 -->
+<br /><br /> <!-- 백준 뱃지 아래에 줄 바꿈 -->
 
-<h1 align="left">🛠Tech Stack</h1>
-<p align="left">
+<h1 align="center">🛠Tech Stack</h1>
+<p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
