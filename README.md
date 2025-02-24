@@ -3,7 +3,7 @@
   <a href="https://solved.ac/rlatngns6046">
     <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngns6046" />
   </a>
-</p>
+</p> 
 
 <br /><br /> <!-- 백준 뱃지 아래에 줄 바꿈 -->
 
